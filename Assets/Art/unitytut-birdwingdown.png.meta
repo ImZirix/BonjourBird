@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d0261dc12a6ea9f488b3ca68a2d7f594
+guid: 8e39e0446fa024d43b2c41b268024268
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      unitytut-birdwingdown_0: -7124756660534886281
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
